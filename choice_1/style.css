@@ -1,0 +1,17 @@
+* {background-color: black; color: white;}
+
+h1 {font-family: cursive;margin: auto; background-color: blue; border-radius: 5px; color: white;}
+
+p:nth-child(7) {
+font-family: sans-serif;
+color: red;
+background-color: yellow;
+border-radius: 10px;
+/* This is CSS! */
+}
+
+#second {text-decoration: none;}
+#third {text-decoration: none;}
+#third:hover {text-decoration: none; font-weight: bold;}
+#fourth {text-decoration: none; background-color: blue; color: white; border-radius: 7px;}
+#fourth:hover {text-decoration: none; background-color: blue; color: red; border-radius: 7px;}
